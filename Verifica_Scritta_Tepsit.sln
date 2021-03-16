@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectVerifica", "Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestione_Tariffa", "Gestione_Tariffa\Gestione_Tariffa.csproj", "{BAD7F58F-404C-4B15-B0F3-C9C52A34B8C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplicazioneTariffa", "WpfApplicazioneTariffa\WpfApplicazioneTariffa.csproj", "{1B614EAA-09FC-40E3-8B0C-532BAD5416E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BAD7F58F-404C-4B15-B0F3-C9C52A34B8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD7F58F-404C-4B15-B0F3-C9C52A34B8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD7F58F-404C-4B15-B0F3-C9C52A34B8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B614EAA-09FC-40E3-8B0C-532BAD5416E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B614EAA-09FC-40E3-8B0C-532BAD5416E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B614EAA-09FC-40E3-8B0C-532BAD5416E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B614EAA-09FC-40E3-8B0C-532BAD5416E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
